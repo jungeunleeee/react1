@@ -1,0 +1,21 @@
+.Button {
+    padding: 14px 27px;
+    border-radius : 30px;
+    outLine : none;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight : 700;
+    margin: 10px;
+  }
+  
+.Button.red {
+    background-color : rgba(0,89,255,.2);
+    border : 1px solid #7090ff;
+    color : #7090ff;
+  }
+.Button.blue{
+    background-color : rgba(255,78,78,.2);
+    border : 1px solid #ff4664;
+    color : #ff4664 ;
+  }
+  
